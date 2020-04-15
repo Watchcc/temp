@@ -3,6 +3,7 @@ import java.util.Random;
 
 public class InsertSort {
     public static void main(String[] args) {
+        System.out.println("changetest2");
         InsertSort is = new InsertSort();
         ArrayList al = is.getArray(10,100);
         System.out.println();System.out.println();

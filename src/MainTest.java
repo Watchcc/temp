@@ -2,6 +2,7 @@ import java.util.Vector;
 
 public class MainTest {
     public static void main(String ags[]) {
+        System.out.println("changetest1");
 //        String initial = "ABCDEFG", after = "";
 //        after = initial = initial.replace('A', 'Z');
 //        System.out.println(initial + ", " + after);
